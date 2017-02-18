@@ -7,3 +7,5 @@ If you want to download a image from instagram, follow bellow steps :
 - Copy the link and paste to the link field in my program.
 - Press get button, you can see the preview of the image.
 - Press Save as button to save the image.
+
+Source included
